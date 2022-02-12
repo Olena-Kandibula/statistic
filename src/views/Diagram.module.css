@@ -1,0 +1,59 @@
+.sectionContainer {
+  padding: 30px 0 0 30px;
+}
+
+.diagramTitle {
+  /* color: var(--black-text); */
+  font-family: "Poppins";
+  font-size: 30px;
+  font-weight: 400;
+  font-style: normal;
+  text-align: left;
+}
+
+.diagramContainer {
+  width: 700px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Circe";
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.chartContainer {
+  position: relative;
+
+  width: 320px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* .chartContainer {
+  position: relative;
+  height: 40vh;
+  width: 80vw;
+  /* width: 100px; */
+/* background-color: aquamarine; */
+/* } */
+
+/* .doughnut {
+   position: absolute;
+} */
+
+.chartText {
+  position: absolute;
+  /* color: var(--pink-text, #ff6596); */
+
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.tableContainer {
+  width: 350px;
+}

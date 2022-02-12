@@ -1,0 +1,25 @@
+{
+    "statistic":[
+        {"id":1, "year":2020,"month":1,"income":21000,
+             "expenses":
+                [ {"kategoria-1":1100,"kategoria-2":1200,"kategoria-3":1300,
+                    "kategoria-4":1400,"kategoria-5":1500,"kategoria-6":1600,
+                "kategoria-7":1700,"kategoria-8":1800,"kategoria-9":1900
+                }] 
+        },
+        {"id":2, "year":2020,"month":2,"income":22000,
+             "expenses":
+                [ {"kategoria-1":2100,"kategoria-2":2200,"kategoria-3":2300,
+                    "kategoria-4":2400,"kategoria-5":2500,"kategoria-6":2600,
+                "kategoria-7":2700,"kategoria-8":2800,"kategoria-9":2900
+                }] 
+        },
+        {"id":3, "year":2020,"month":3,"income":23000,
+             "expenses":
+                [ {"kategoria-1":3100,"kategoria-2":3200,"kategoria-3":3300,
+                    "kategoria-4":3400,"kategoria-5":3500,"kategoria-6":3600,
+                "kategoria-7":3700,"kategoria-8":3800,"kategoria-9":3900
+                }] 
+        }
+    ]
+}
