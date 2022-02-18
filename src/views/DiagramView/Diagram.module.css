@@ -1,0 +1,61 @@
+.section {
+  padding: 30px 0 0 30px;
+  background-color: aqua;
+}
+
+.sectionTitle {
+  /* font-family: "Poppins"; */
+  font-family: "Segoeui";
+  font-size: 30px;
+  font-weight: 400;
+  font-style: normal;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+/* .diagramContainer {
+  width: 700px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Circe";
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  background-color: azure;
+} */
+
+/* .chartContainer {
+  position: relative;
+
+  width: 320px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+
+/* .chartContainer {
+  position: relative;
+  height: 40vh;
+  width: 80vw;
+  /* width: 100px; */
+/* background-color: aquamarine; */
+/* } */
+
+/* .doughnut {
+   position: absolute;
+} */
+
+/* .chartText {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+  font-weight: 700;
+  /* color: var(--pink-text, #ff6596); *
+} */
+
+/* .tableContainer {
+  width: 350px;
+} */

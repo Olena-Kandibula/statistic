@@ -15,4 +15,8 @@
    +in the file index.css add
    @import '../node_modules/normalize.css/normalize.css';
 
-9.
+9. npm install react-icons --save
+   //\*\*
+10. npm install @mui/material @emotion/react @emotion/styled
+
+11. npm i react-image

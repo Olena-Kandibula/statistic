@@ -1,21 +1,14 @@
 
-import './App.css';
-
-import DiagramView from './views/DiagramView';
+// import DiagramView from '../src/views/DiagramView'
+import DiagramTab from './components/DiagramNew/DiagramTab'
 
 function App() {
-
   
-
   return (
-    <div className="App">
-      <header className="App-header">
-
-        <DiagramView />       
-        
-      </header>
-    </div>
-  );
+    <><div>Hello!</div>
+  <DiagramTab/>  
+    </>
+  )
 }
 
 export default App;

@@ -1,0 +1,11 @@
+.statisticContainer {
+  width: 700px;
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  font-family: "Circe";
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  background-color: azure;
+}

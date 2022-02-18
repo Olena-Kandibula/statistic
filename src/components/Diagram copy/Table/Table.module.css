@@ -1,0 +1,41 @@
+.tableTitle {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+ul {
+  list-style: none;
+}
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+li:not(:last-child) {
+  margin-bottom: 10px;
+  padding: 5px;
+  /* gap: 0.5rem; */
+  border-bottom: 1px solid gray;
+}
+
+.marker {
+  background-color: rgb(202, 147, 63);
+  width: 20px;
+  height: 20px;
+}
+.m2 {
+  background-color: aquamarine;
+}
+.m3 {
+  background-color: rgb(167, 24, 24);
+}
+.m4 {
+  background-color: rgb(141, 58, 134);
+  width: 20px;
+  height: 20px;
+}
+.m3_1 {
+  background-color: rgb(45, 88, 74);
+  width: 100px;
+  height: 100px;
+}

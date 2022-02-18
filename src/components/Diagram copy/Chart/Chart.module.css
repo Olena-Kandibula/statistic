@@ -1,0 +1,14 @@
+.chartContainer {
+  position: relative;
+  /* width: 320px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.chartText {
+  position: absolute;
+  font-size: 18px;
+  font-weight: 700;
+}
